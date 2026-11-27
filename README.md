@@ -43,8 +43,8 @@ its Voronoi cells, the effect of `psi`, and one setting of the paper.
 
 ## Reproducing the results of the paper
 
-**Data.** Put the raw files into a folder `datasets/` in the repository root, or point the environment
-variable `VOCE_DATA` to another folder.
+**Data.** The raw files are in `datasets/`, copied unchanged from the sources below; please cite the original
+sources when you use them. To read them from another folder, set the environment variable `VOCE_DATA`.
 
 | Dataset | File(s) | Source |
 |---|---|---|
